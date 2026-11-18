@@ -7,6 +7,7 @@
 2. [اختصارات، نام سامانه‌ها و عبارت‌سازی در زبان فنی خودرو (بر پایه SRC-003)](chapter-02-abbreviations-and-phrases-src003-fa.md)
 
 3. [واژگان اولویت‌دار عیب‌یابی و دیاگ - مرحله اول (همراه IPA و مخفف‌ها)](chapter-03-priority-diagnostic-vocabulary-src003-fa.md)
+4. [افعال و دستورهای پرکاربرد در تعمیرگاه و دستگاه دیاگ - مرحله دوم](chapter-04-workshop-and-diagnostic-action-verbs-fa.md)
 
 ### گزارش‌ها و کنترل منابع
 - [گزارش بررسی منبع SRC-003](../../sources/technical-language/SRC-003-review-fa.md)
