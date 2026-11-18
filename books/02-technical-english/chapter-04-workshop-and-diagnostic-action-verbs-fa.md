@@ -180,11 +180,14 @@
 | مدخل‌ها / موضوع | منبع | صفحه |
 |---|---|---:|
 | Check, Inspect, Measure, Compare, Replace, Disconnect, Reconnect, Verify, Record, Refer to | نسخه اول راهنمای ATUNEX | ۲۳ |
-| Test / Actuation Test | SRC-003 | ۳ |
+| Read Codes / Erase Codes / Clear DTCs | نسخه اول راهنمای ATUNEX | ۱۸ تا ۲۱ |
+| Connect | SRC-003 | ۱۴ |
+| Test / Actuation Test / Activate | SRC-003 | ۳ |
 | Adjust | SRC-003 | ۴ |
+| Calibrate | SRC-003 | ۱۱ |
+| Disable | SRC-003 | ۱۹ |
 | Enable | SRC-003 | ۲۳ |
 | Erase | SRC-003 | ۲۴ |
-| Disable | SRC-003 | ۱۹ |
 | Inspect, Install | SRC-003 | ۳۴ |
 | Measure | SRC-003 | ۴۰ |
 | Record, Refer | SRC-003 | ۵۲ |
