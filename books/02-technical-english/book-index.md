@@ -8,6 +8,7 @@
 
 3. [واژگان اولویت‌دار عیب‌یابی و دیاگ - مرحله اول (همراه IPA و مخفف‌ها)](chapter-03-priority-diagnostic-vocabulary-src003-fa.md)
 4. [افعال و دستورهای پرکاربرد در تعمیرگاه و دستگاه دیاگ - مرحله دوم](chapter-04-workshop-and-diagnostic-action-verbs-fa.md)
+5. [واژگان منوهای دیاگ، اطلاعات زنده و وضعیت کدهای عیب - مرحله سوم](chapter-05-scan-tool-live-data-and-fault-status-fa.md)
 
 ### گزارش‌ها و کنترل منابع
 - [گزارش بررسی منبع SRC-003](../../sources/technical-language/SRC-003-review-fa.md)
